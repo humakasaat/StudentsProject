@@ -3,5 +3,9 @@ public class Main {
      SyntaxtStudents ahmad= new SyntaxtStudents();
 
         System.out.println("ahmad is hardworking");
+        ahmad.FirstName="Ahmad";
+        ahmad.lastName="Zaid";
+        ahmad.email="Ahmad@hotmail.com";
+        
     }
 }
